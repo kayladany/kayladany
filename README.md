@@ -18,9 +18,11 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2> Certifications</h2>
+<h2> Degree/Certifications</h2>
 
 - [Data Analyst Professional Certificate](https://www.credly.com/badges/9a5efe62-6a1e-4db2-8614-b48d3770135e/public_url)
+- [Bachelor of Science](https://www.parchment.com/u/s/gEQ7)
+
 
 <h2> 🤳 Connect with me:</h2>
 
