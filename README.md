@@ -1,4 +1,4 @@
-<h1>Hello, I'm Kayla! <br/><a href="https://github.com/kayladany">Analyst</a>, <a href="https://https://www.linkedin.com/in/kayla-jones-a17305255/">Data Entry Specialist</a></h1>
+<h1>Hello, I'm Kayla! <br/><a>Analyst</a>, <a>Data Entry Specialist</a></h1>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
