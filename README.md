@@ -4,8 +4,8 @@
 
 - <b>Final Capstone Project</b>
   - [Stack Overflow Developer Survey Project](https://github.com/kayladany/Stack-Overflow-Developer-Survey-Project)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Excel Project</b>
+  - [Montgomery Fleet Equipment Inventory Project](https://onedrive.live.com/embed?resid=E1552B28A7AFF47%211653&authkey=%21AClZhNok2cDn0Zg&em=2&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=true&resen=false&ed1JS=false></iframe>) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
